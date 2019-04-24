@@ -69,4 +69,10 @@ dkms.conf
 # Ignore all local history of files
 .history
 
+### Project-specific things ###
+0_webcam_capture
+1_frame_buffer
+2_webcam_to_fb
+3_webcam_video_to_fb
+
 # End of https://www.gitignore.io/api/c,code,visualstudiocode
